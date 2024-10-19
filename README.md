@@ -5,7 +5,7 @@ I have experience with the following technologies:
 
 - **C#**
   - [Snake Game](https://github.com/igorbebenek/Semester-3/tree/main/C%23/SnakeForms) – A classic snake game developed in C# using Windows Forms.
-  - [Invoice Manager](https://github.com/igorbebenek/Semester-3/tree/main/C%23/InvoiceManagerForms/InvoiceManager) – Invoice Manager application using Windows Forms and Entity Framework.
+  - [Invoice Manager](https://github.com/igorbebenek/Semester-3/tree/main/C%23/InvoiceManagerForms/InvoiceManager) – ORM Invoice Manager application using Windows Forms and Entity Framework.
   - [Other Small University Exercises](https://github.com/igorbebenek/Semester-3/tree/main/C%23)
 
 - **Python**
