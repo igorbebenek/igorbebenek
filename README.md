@@ -18,7 +18,9 @@ I have experience with the following technologies:
 
 - **C++**
   - [Raytracer](https://github.com/igorbebenek/Semester-4/tree/main/Graphics%20and%20Visualization)
-  - [Basic OOP Concepts With Unfinished Pharmacy Application](https://github.com/igorbebenek/Semester-2/tree/main/C%2B%2B%20Object-Oriented%20Programming) 
+  - [Basic OOP Concepts With Unfinished Pharmacy Application](https://github.com/igorbebenek/Semester-2/tree/main/C%2B%2B%20Object-Oriented%20Programming)
+  - [Basic Algorithms And Data Structures Concepts](https://github.com/igorbebenek/Semester-3/tree/main/Data%20Structures%20and%20Algorithms) 
+
 
 
 - **MATLAB**
