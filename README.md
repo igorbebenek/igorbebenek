@@ -10,6 +10,8 @@ I have experience with the following technologies:
 
 - **Python (fundamentals)**
   - [Data Processing and Analysis](https://github.com/igorbebenek/Semester-4/tree/main/Data%20Processing%20and%20Analysis)
+  - [DateFinder App](https://github.com/igorbebenek/DateFinder) – A dating app developed using the Kivy framework with databases, created as part of a software engineering course.
+
 
 - **C**
   - [Operating Systems Course](https://github.com/igorbebenek/Semester-3/tree/main/Operating%20Systems) – A collection of small programs made in C for operating systems course, developed on both Windows and Linux.
