@@ -26,7 +26,7 @@ I have experience with the following technologies:
 - **MATLAB**
   - [Numerical Methods](https://github.com/igorbebenek/Semester-3/tree/main/Numerical%20Methods) 
 - **CSS & HTML**
-  - [Ferret Website](https://github.com/igorbebenek/Semester-2/tree/main/HTML%20and%20CSS/FerretWebsite) – A simple website about ferrets, built with pure HTML and CSS.
+  - [Ferret Website](https://github.com/igorbebenek/IgorBebenek-ai1-labA) – A simple website about ferrets, built with pure HTML and CSS.
  
 - **SQL and SQLite databases**   
 - **Linux** 
