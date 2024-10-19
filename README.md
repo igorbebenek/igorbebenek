@@ -8,7 +8,7 @@ I have experience with the following technologies:
   - [Invoice Manager](https://github.com/igorbebenek/Semester-3/tree/main/C%23/InvoiceManagerForms/InvoiceManager) – Invoice Manager application using Windows Forms and Entity Framework.
   - [Other Small University Exercises](https://github.com/igorbebenek/Semester-3/tree/main/C%23)
 
-- **Python (fundamentals)**
+- **Python**
   - [Data Processing and Analysis](https://github.com/igorbebenek/Semester-4/tree/main/Data%20Processing%20and%20Analysis)
   - [DateFinder App](https://github.com/igorbebenek/DateFinder) – A dating app developed using the Kivy framework with databases, created as part of a software engineering course.
 
