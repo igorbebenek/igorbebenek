@@ -32,7 +32,7 @@ I have experience with the following technologies:
 - **Linux** 
 
 
-Currently, I'm learning JavaScript, looking for an internship/practice
+Currently, I'm learning JavaScript, looking for an internship/practice.
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/igor-b%C4%99benek-3a8754314/).
 
 
