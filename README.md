@@ -4,7 +4,6 @@
 
 ## Featured Project: Job Market Intelligence Pipeline
 [![](https://img.shields.io/badge/-📊%20Project%20Source%20Code-3E0097?style=for-the-badge&logo=github)](https://github.com/igorbebenek/Python-SQL-ETL-Pipeline-JobMarket-Analysis)
-End-to-end ETL Pipeline automating data collection from PL, GB and US job markets.
 * Extraction: REST APIs (requests, rate-limiting logic).
 * Transformation: Pandas, data cleaning, normalization, and enrichment.
 * Loading: SQL (SQLAlchemy)
